@@ -1,0 +1,53 @@
+h1{
+    color: hsla(113, 75%, 47%, 0.781);
+    background-color: silver;
+    height: 90px;
+    width: 75%;
+}
+p{
+    color: royalblue;
+    font-size: 25px;
+    font-weight: 800;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+img{
+    width: 50%;
+}
+#birthday{
+    font-size: 35px;
+    color: rgba(226, 194, 11, 0.712);
+}
+.friends{
+    background-color: rgba(55, 226, 39, 0.726);
+}
+h1.friends{
+    background-color: rgba(106, 26, 211, 0.329);
+}
+.neighbor{
+    width: 100px;
+}
+.gum{
+    color: red;
+    background-color: seagreen;
+    font-size: 25px;
+    font-weight: 900;
+}
+.blog{
+    background-color: sandybrown;
+}
+
+.blog{
+    border: 1px solid red;
+    border-radius: 20px;
+    margin: 1px;
+    width: 30%;
+    display: inline-block;
+
+
+}
+h3{
+    text-align: center;
+}
+p{
+    text-align: jistfy;
+}
